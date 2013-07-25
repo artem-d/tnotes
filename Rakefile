@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Tombotes::Application.load_tasks
+TNotes::Application.load_tasks
